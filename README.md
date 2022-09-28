@@ -39,6 +39,7 @@ $ npm run test:cov
 ## Support
 
 包含： \
+.env \
 logger \
 migration \
 seeder \
