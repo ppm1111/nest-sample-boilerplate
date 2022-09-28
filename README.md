@@ -39,13 +39,13 @@ $ npm run test:cov
 ## Support
 
 包含：
-logger
-migration
-seeder
-module
-unit test example
-in memory e2e test example
-    支持 refresh 跟初始化資料
+logger \
+migration \
+seeder \
+module \
+unit test example \
+in memory e2e test example \
+    支持 refresh 跟初始化資料 \
 
 ## License
 
